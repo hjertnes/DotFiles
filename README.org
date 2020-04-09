@@ -1,0 +1,4 @@
+* My Dotfiles
+These are my dotfiles, my emacs config is [[https://github.com/hjertnes/emacs.d][here]].
+
+I don't have a script to link everything together anymore. But instead I copy them over. The fish config is mostly the same but a little bit different on my MacBook vs my ThinkPad
