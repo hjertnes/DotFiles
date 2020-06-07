@@ -1,0 +1,45 @@
+session_name: main
+windows:
+  - window_name: main
+    panes:
+      - cd
+  - window_name: top
+    panes:
+      - htop
+  - window_name: wiki
+    layout: tiled
+    panes:
+      - cd ~/Code/wiki/
+  - window_name: blog
+    layout: tiled
+    panes:
+      - cd ~/Code/hugo-blog
+  - window_name: homeopage
+    layout: tiled
+    panes:
+      - cd ~/Code/homepage
+  - window_name: idiomaticsoftware
+    layout: tiled
+    panes:
+      - cd ~/Code/hugo-idiomaticsoftware      
+  - window_name: bookmarking
+    layout: tiled
+    panes:
+      - cd ~/go/src/bookmarking
+      - tail -f /tmp/bookmarking.log
+      - tail -f /tmp/bookmarking-echo.log
+      - cd ~/Code/bookmarking-app
+  - window_name: txt
+    layout: tiled
+    panes:
+      - cd ~/Code/txt
+  - window_name: emacs.d
+    layout: tiled
+    panes:
+      - cd ~/Code/emacs.d
+  - window_name: dotfiles
+    layout: tiled
+    panes:
+      - cd ~/Code/dotfiles      
+
+      
