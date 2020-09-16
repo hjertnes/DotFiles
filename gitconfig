@@ -5,8 +5,6 @@
 [user]
 	name = Eivind Hjertnes
 	email = me@hjertnes.me
-[github]
-	oauth-token = 6d2dde2207929b7cf0c5287422445ff28bbddcc2
 [magithub]
 	online = false
 [magithub "status"]
